@@ -6,7 +6,7 @@
  
 - 🌱 I'm currently learning [NODEJS](https://nodejs.org/en/).
 
-- 🔏 I am a active member[FI''h cl'b](https://cinemas.grandparissud.fr/les-films/fight-club).
+- 🔏 I am a active member [FI''h cl'b](https://cinemas.grandparissud.fr/les-films/fight-club).
 
 - 📝 I sometimes write [MOVIE SCRIPT](https://fr.wikipedia.org/wiki/Sc%C3%A9nario)
 
