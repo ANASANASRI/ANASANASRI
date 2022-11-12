@@ -11,5 +11,4 @@
 - 📝 I sometimes write [MOVIE SCRIPT](https://fr.wikipedia.org/wiki/Sc%C3%A9nario)
 
 - 📫 You can find me on [🐦 Twitter](https://twitter.com/anasanasri_) & [💻 LinkedIn](https://www.linkedin.com/in/anasanasri/)
-
 <!--   grid-snake --> ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
