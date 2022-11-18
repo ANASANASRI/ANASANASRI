@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+😀;nice+to+meet+you+🎉;&center=true&size=30">
+  </a>
+</h1>
 
 - 👋 I'm ANAS ANASRI, a Software Engineer from CASABLANCA (MOROCCO).
 
