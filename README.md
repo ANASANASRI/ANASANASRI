@@ -8,7 +8,7 @@
 
 - 💻 I can use many programming Languages:[Java](https://www.java.com/fr/), [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript), [C](https://fr.wikipedia.org/wiki/C_(langage)), [C++](https://fr.wikipedia.org/wiki/C%2B%2B), ...
  
-- 🌱 I'm currently learning [NODEJS](https://nodejs.org/en/).
+- 🌱 I'm currently learning [NODEJS](https://nodejs.org/en/) & [REACT](https://fr.reactjs.org/).
 
 - 🔏 I am a active member in [Fi**t cl*b](https://cinemas.grandparissud.fr/les-films/fight-club).
 
