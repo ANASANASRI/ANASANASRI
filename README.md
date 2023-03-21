@@ -12,6 +12,8 @@
 
 - 📝 I sometimes write [MOVIE SCRIPT](https://fr.wikipedia.org/wiki/Sc%C3%A9nario)
 
+- 🎨 I enjoy expressing myself through [painting](https://www.instagram.com/anas_ri_30/) and love experimenting with different techniques and styles.
+
 - 📫 You can find me on [🐦 Twitter](https://twitter.com/anasanasri_) & [💻 LinkedIn](https://www.linkedin.com/in/anasanasri/)
 
 <!--   grid-snake -->
