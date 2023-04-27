@@ -10,7 +10,7 @@
  
 - 🌱 I'm currently learning [Spring boot](https://spring.io/) & [DEVOPS](https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops)
 
-- 📝 I sometimes write [MOVIE SCRIPT](https://fr.wikipedia.org/wiki/Sc%C3%A9nario)
+- 📝 I sometimes write [MOVIE SCRIPT](https://www.outstandingscreenplays.com/scripts)
 
 - 🎨 I enjoy expressing myself through various [art](https://www.instagram.com/anas_ri_30/) forms
 
