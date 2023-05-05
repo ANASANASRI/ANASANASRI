@@ -10,7 +10,7 @@
  
 - 🌱 I'm currently learning [Spring boot](https://spring.io/) & [DEVOPS](https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops)
 
-- 📝 I sometimes write [MOVIE SCRIPT](https://www.outstandingscreenplays.com/scripts) writing is rewriting 😀
+- 📝 I sometimes write [MOVIE SCRIPT](https://www.outstandingscreenplays.com/scripts) "😀 writing is rewriting"
 
 - 🎨 I enjoy expressing myself through various [art](https://art) forms
 
