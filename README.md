@@ -12,7 +12,7 @@
 
 - 📝 I sometimes write [MOVIE SCRIPT](https://www.outstandingscreenplays.com/scripts)
 
-- 🎨 I enjoy expressing myself through various [art](https://www.instagram.com/anas_ri_30/) forms
+- 🎨 I enjoy expressing myself through various [art](https://www.com) forms
 
 - 📫 You can find me on [🐦 Twitter](https://twitter.com/anasanasri_) & [💻 LinkedIn](https://www.linkedin.com/in/anasanasri/)
 
