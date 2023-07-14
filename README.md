@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
 - 👋 I'm ANAS ANASRI, a Software Engineer from CASABLANCA (MOROCCO).
  
 - 🌱 I'm currently learning [React js](https://react.dev/),[JavaFX](https://openjfx.io/) and [DEVOPS](https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops)
