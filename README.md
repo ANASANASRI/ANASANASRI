@@ -10,7 +10,7 @@
 
 - 📝 I sometimes write [MOVIE SCRIPT](https://www.outstandingscreenplays.com/scripts) "😀 writing is rewriting"
 
-  <h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ | C  ...
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
@@ -18,7 +18,7 @@
 - 🔧 &nbsp; Android Studio | Visual Studio code | Intellij | Git
 - 🖥 &nbsp; Figma | Adobe Xd | Illustrator | Photoshop 
 
-  <h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me </h3>
   
 <p align="center">
 &nbsp; <a href="https://twitter.com/anasanasri_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
