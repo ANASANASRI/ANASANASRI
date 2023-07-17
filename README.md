@@ -10,7 +10,7 @@
  
 - 🌱 I'm currently learning [React js](https://react.dev/),[JavaFX](https://openjfx.io/) and [DEVOPS](https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops)
 
-- 📝 I sometimes write [MOVIE SCRIPT](https://www.outstandingscreenplays.com/scripts) "😀 writing is rewriting"
+- 📝 I Write [MOVIES SCRIPT](https://www.outstandingscreenplays.com/scripts) "😀 writing is rewriting"
 
 <h3>🛠 Tech Stack</h3>
 
