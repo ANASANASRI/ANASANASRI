@@ -14,9 +14,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C  ...
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 💻 &nbsp; Java | C++ | C | Python  ...
+- 🌐 &nbsp; JavaScript | HTML | CSS | Bootstrap | flutter 
+- 🛢 &nbsp; MySQL | MongoDB | SQLServer
 - 🔧 &nbsp; Android Studio | Visual Studio code | Intellij | Git
 - 🖥 &nbsp; Figma | Adobe Xd | Illustrator | Photoshop 
 
