@@ -18,7 +18,7 @@
 - 🌐 &nbsp; JavaScript | HTML | CSS | Bootstrap | flutter 
 - 🛢 &nbsp; MySQL | MongoDB | SQLServer
 - 🔧 &nbsp; Android Studio | Visual Studio code | Intellij | Git
-- 🖥 &nbsp; Figma | Adobe Xd | Illustrator | Photoshop 
+- 🖥 &nbsp; Figma | Illustrator | Photoshop 
 
 <h3> 🤝🏻 Connect with Me </h3>
   
