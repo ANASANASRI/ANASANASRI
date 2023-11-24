@@ -8,7 +8,7 @@
 
 - 👋 I'm ANAS ANASRI, a Software Engineer from CASABLANCA (MOROCCO).
  
-- 🌱 I'm in the midst of my learning journey, diving deep into [React.js](https://react.dev/) . Additionally, I'm exploring the fascinating world of [DevOps](https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops) and [Spring](https://spring.io/).
+- 🌱 I'm in the midst of my learning journey, diving deep into [React.js](https://react.dev/) . Additionally, I'm exploring the fascinating world of [Spring](https://spring.io/) and [DevOps](https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops) .
 
 - 📝 I am a movies [ scriptwriter ](https://www.outstandingscreenplays.com/scripts) "😀 writing is rewriting"
 
