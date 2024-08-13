@@ -15,11 +15,12 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Java | C++ | C | Python ...
-- 🌐 &nbsp; JavaScript | HTML | CSS | Flutter
-- 🛢 &nbsp; MySQL | MongoDB | SQLServer
+- 🌐 &nbsp; JavaScript | HTML | CSS | Flutter | Angular
+- 🛢 &nbsp; MySQL | MongoDB | SQLServer | PostgreSQL
 - 🔧 &nbsp; Intellij | Android Studio | Visual Studio Code | Git
 - 🖥 &nbsp; Figma | Illustrator | Photoshop
 - ☁️ &nbsp; Spring Boot
+- 🔒 &nbsp; Keycloak
 - 📡 &nbsp; MERN Stack (MongoDB, Express.js, React, Node.js)
 - 🎨 &nbsp; Tailwind CSS | Bootstrap | Vanilla CSS
 
