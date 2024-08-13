@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+😀🎉;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+🖖🎉;&center=true&size=30">
   </a>
 </h1>
 
@@ -8,7 +8,7 @@
 
 - 👋 I'm ANAS ANASRI, a Software Engineer from CASABLANCA (MOROCCO).
  
-- 🌱 I'm in the midst of my learning journey, diving deep into [Angular](https://angular.io/) . Additionally, I'm exploring the fascinating world of [Spring](https://spring.io/) and [DevOps](https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops) .
+- 🌱 I'm actively working with [Angular](https://angular.io/), honing my skills in [Spring](https://spring.io/), and diving into the dynamic world of [DevOps](https://azure.microsoft.com/fr-fr/resources/cloud-computing-dictionary/what-is-devops/).
 
 - 📝 I am a movies [ scriptwriter ](https://www.outstandingscreenplays.com/scripts) "😀 writing is rewriting"
 
